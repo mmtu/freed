@@ -1,3 +1,4 @@
+##💘中央蓝光##
 CCTV1 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV3 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -13,6 +14,8 @@ CCTV12 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/inde
 CCTV14 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+##
+##📺卫视蓝光##
 浙江卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 天津卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 湖南卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
@@ -28,3 +31,8 @@ CCTV17 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/inde
 安徽卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 黑龙江卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 陕西公共 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
+##
+##🗼港澳台##
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰中文,http://liuy.usa7.20212021.ga/ns.php?id=100
+##
