@@ -47,6 +47,6 @@ CCTV17 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/inde
 陕西公共 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 ##
 ##🗼港澳台##
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰中文,http://liuy.usa7.20212021.ga/ns.php?id=100
 ##
