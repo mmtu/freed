@@ -846,10 +846,8 @@
 "zhuyanhou": "</div>",
 "juqingqian": "module-info-introduction-content\">",
 "juqinghou": "</p>",
-//播放列表数组
 "bfjiequshuzuqian": "class=\"module-list",
 "bfjiequshuzuhou": "</div>",
-//播放集数截取
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
@@ -913,8 +911,8 @@
 "bfyjiequshuzuhou": "/a>",
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
-"bflianjieqian": "href=\'",
-"bflianjiehou": "\'"},
+"bflianjieqian": "href=\''",
+"bflianjiehou": "\''"},
 {"name": "神马TV8",
 "tihuan": "cnzz.com",
 "url": "https://www.smtv8.com",
