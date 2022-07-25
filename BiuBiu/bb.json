@@ -2,7 +2,6 @@
 "zhuyejiekou": [
 {"name":"南府追剧","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
 {"name":"默认库","url":"http://35ys.cc/api.php/v1.vod"},
-{"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"剧白白","url":"https://v.pipitu.top/xgapp.php/v2/"},
 {"name":"极酷视频","url":"https://jiku.vip/mogai_api.php/v1.vod"},
 {"name":"开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
@@ -30,11 +29,13 @@
 "dianshizhibo": "https://raw.githubusercontent.com/mmtu/freed/master/BiuBiu/live.txt",
 "caijizhan": [
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
+{"name":"if101","url":"https://demo.if101.tv/api.php"},
 {"name":"7788资源","url":"http://www.zycaiji.net:7788/api.php"},
 {"name":"8090采集","url":"http://zy.yilans.net:8090/api.php"},
 {"name":"红牛采集","url":"https://www.hongniuzy2.com/api.php"},
 {"name":"影视阁","url":"http://216.98.10.85/api.php/iptv/vod/"},
 {"name":"小猫咪","url":"https://zy.xiaomaomi.cc/api.php"}],
+{"name":"益达影院","url":"http://luobu.yss6080.com/api.php"},
 "Home":{
 "dy":{
 "class":"全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#伦理$&class=伦理#情色$&class=情色#福利$&class=福利#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
